@@ -9,7 +9,7 @@ but don’t let that fool you — I already have the skills to build fully funct
 💡 I love turning ideas into products that work, whether it's a dashboard, an e-commerce site, or a crypto investment platform.
 
 🧠 Currently building:  
-• Crypto Investment Platform  
+
 • Command-based Mobile Control System with Python + Flask
 
 ---
