@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/qR7nXvV.jpg" width="100%" height="auto"/>
+<img src="https://github.com/obapluto-ob/obapluto-ob/assets/102676646/f5d4f588-cf52-4c71-b3fc-0bd7c029b6db" width="100%" height="auto"/>
 
 <h1 align="center">Yo, I'm Obapluto 👨‍💻</h1>
 <p align="center">Student @ Moringa School | Nairobi 🇰🇪 | Fullstack Web Dev in the Making</p>
