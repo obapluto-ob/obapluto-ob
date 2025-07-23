@@ -1,28 +1,26 @@
-# Obapluto
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="220" alt="typing robot" />
+</p>
 
-Aspiring Full-Stack Web Developer | Moringa School – Nairobi
+<h1 align="center">Hi, I'm Obed (aka Obapluto)</h1>
+<h3 align="center">💻 Full-stack Developer | Moringa School Student | Nairobi, Kenya</h3>
 
----
-
-## 👋 About Me
-
-Hi! I'm Obed, a current student at Moringa School in Nairobi. I’m studying full-stack web development, and already building real applications from scratch — both frontend and backend.
-
-I enjoy turning ideas into working products, and I’m always improving my skills through hands-on projects.
-
----
-
-## 💡 What I Can Do
-
-- Build full-stack web applications using modern tools
-- Develop REST APIs and connect them to dynamic UIs
-- Manage PostgreSQL databases and implement user authentication
-- Deploy apps using Vercel, Render, Railway, or GitHub Pages
-- Use Git to manage clean, professional codebases
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Learning+by+building+real+apps;React+%7C+Django+%7C+Node.js+%7C+PostgreSQL;Available+for+freelance+or+collab+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 👨‍💻 About Me
+
+I'm currently studying at Moringa School in Nairobi, diving deep into full-stack development.  
+Even while learning, I build real-world apps and explore powerful tools across the stack.
+
+I'm passionate about creating clean code, efficient systems, and responsive UIs that solve real problems.
+
+---
+
+## 🚀 Tech Stack
 
 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -49,25 +47,20 @@ Tools & Platforms
 
 ---
 
-## 🚀 Projects
+## 📁 Projects
 
-- Crypto Investment Dashboard  
-  A live dashboard for tracking crypto assets, portfolio stats, and transactions.
-
-- SMS-Controlled App  
-  A backend Flask server that lets you control an Android phone remotely via SMS commands.
-
-- Portfolio CMS  
-  A personal portfolio website built with Django and PostgreSQL, complete with blog and dashboard.
+- Crypto Investment Dashboard — Live price tracker, news, portfolio and transaction panel.  
+- SMS-Controlled App (Python Flask) — Trigger real phone actions remotely using SMS commands.  
+- Portfolio CMS — Dynamic portfolio with blog, login, and CMS dashboard (Django-based).  
 
 ---
 
 ## 📫 Contact Me
 
-📧 obedemoni@gmail.com  
-🌍 Nairobi, Kenya  
-📘 Currently studying at Moringa School
+- Email: obedemoni@gmail.com  
+- Location: Nairobi, Kenya
+- Currently: Student at Moringa School
 
 ---
 
-Thanks for checking out my profile.
+> “Keep building, even when you're still learning. Growth lives in the code you ship.”
