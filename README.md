@@ -37,7 +37,7 @@ but don’t let that fool you — I already have the skills to build fully funct
 ### 🌍 Let’s Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obedemoni)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obedemoni)  
-📧 Email me at: your.obedemoni@gmail.com
+📧 Email me at:obedemoni@gmail.com
 
 ---
 
