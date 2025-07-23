@@ -1,6 +1,7 @@
-<!-- Optional Banner -->
-<!-- You can replace this with your own image later -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" height="auto"/>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/obapluto-ob/obapluto-ob/main/assets/banner.png" alt="Obapluto Banner" width="100%" />
+</p>
 
 <h1 align="center">Obapluto</h1>
 <p align="center"><strong>Web Developer | Moringa School Student | Nairobi, Kenya</strong></p>
@@ -31,7 +32,7 @@ I enjoy solving real problems with real code, and I believe in launching, not ju
 
 ## Projects
 
-- web-based crypto dashboard with portfolio, transactions, news, and performance stats.
+- Web-based crypto dashboard with portfolio, transactions, news, and performance stats.
 
 - Command-based Mobile Control App  
   Remote mobile control via SMS commands using Python Flask and Android integration.
