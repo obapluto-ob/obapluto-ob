@@ -31,8 +31,7 @@ I enjoy solving real problems with real code, and I believe in launching, not ju
 
 ## Projects
 
-- Crypto Investment Platform  
-  Web-based crypto dashboard with portfolio, transactions, news, and performance stats.
+- web-based crypto dashboard with portfolio, transactions, news, and performance stats.
 
 - Command-based Mobile Control App  
   Remote mobile control via SMS commands using Python Flask and Android integration.
